@@ -1,4 +1,4 @@
-# 👩‍💻 Ghazal Aryem – Full Stack Developer | ML/NLP Enthusiast
+# 👩‍💻 Ghazal Aryem – Full Stack Developer | AI/ML Enthusiast
 
 Hi there! I'm **Ghazal Aryem**, a passionate **Computer Science student** at NUML and a **Full Stack Developer** with a keen interest in **AI, NLP, and backend development**. My work bridges robust backend architectures with intelligent machine learning systems to build impactful web applications.
 
