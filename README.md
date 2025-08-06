@@ -1,6 +1,6 @@
-# Ghazal Aryem
+# 🧑‍💻 Ghazal Aryem
 
-👋 Hi there! I'm a Full Stack Developer and AI/ML Enthusiast. 
+👋Hi there! I'm **Ghazal Aryem**, a passionate **Computer Science student** at NUML and a **Full Stack Developer** with a keen interest in **AI, NLP, and backend development**. My work bridges robust backend architectures with intelligent machine learning systems to build impactful web applications.
 
 ## 🔧 Tech Stack
 
@@ -61,6 +61,6 @@
 
 ## 📫 Contact Me
 - ✉️ [ghazalmariem911@gmail.com](mailto:ghazalmariem911@gmail.com)
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/ghazal-aryem-203a03255])
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ghazal-aryem-203a03255)
 - 🌍 [GitHub](https://github.com/Ghazal-Aryem)
 - 📍 Rawalpindi, Pakistan
