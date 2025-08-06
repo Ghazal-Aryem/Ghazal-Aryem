@@ -1,6 +1,6 @@
 # 🧑‍💻 Ghazal Aryem
 
-👋Hi there! I'm **Ghazal Aryem**, a passionate **Computer Science student** at NUML and a **Full Stack Developer** with a keen interest in **AI, NLP, and backend development**. My work bridges robust backend architectures with intelligent machine learning systems to build impactful web applications.
+👋Hi there! I'm **Ghazal Aryem** a **Full Stack Developer** with a keen interest in **AI/ML and backend development**, graduated from **NUML** in **BSCS 2025**. My work bridges robust backend architectures with intelligent machine learning systems to build impactful web applications.
 
 ## 🔧 Tech Stack
 
