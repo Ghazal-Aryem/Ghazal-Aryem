@@ -30,8 +30,8 @@
 
 ## 💼 Featured Experience
 
-### **AIRRR – AI Resume Recommendation**  
-*(FYP & SQA Engineer, NUML)*  
+### **AIRRR – AI Resume Recommendation for Recruiters**  
+*(web Backend & AI Engineer, NUML)*  
 - Built AI-driven candidate matching and resume parsing using spaCy, TF-IDF, and Doc2Vec+Cosine Similarity
 - Engineered and evaluated 4-5 custom ML models (Random Forest, Logistic Regression)
 - Managed secure backend storage on MongoDB and AWS S3
